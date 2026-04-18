@@ -1,14 +1,14 @@
 import sys
 from pathlib import Path
 
-# Garante que o Python encontre o código na pasta src
+
 sys.path.append(str(Path(__file__).parent / "src"))
 
 from sentiment_analyzer.models.huggingface_provider import HuggingFaceAnalyzer
 from sentiment_analyzer.core.services import SentimentBatchService
 
 def main():
-    # 1. Inicializa os componentes (Injeção de Dependência)
+    
     model = HuggingFaceAnalyzer()
     service = SentimentBatchService(model)
     
