@@ -1,0 +1,7 @@
+id,comentario,sentiment_label,sentiment_score,analysis_at
+1,O sistema de análise ficou muito rápido com o uv!,NEU,0.9538913369178772,2026-04-17 21:33:17.325414
+2,A documentação está um pouco confusa mas o código ajuda.,NEU,0.9750766754150391,2026-04-17 21:33:17.325414
+3,Tive um erro ao tentar instalar o torch na primeira vez.,NEU,0.9451934695243835,2026-04-17 21:33:17.325414
+4,Contagem é uma cidade excelente para trabalhar com tecnologia.,NEU,0.8764253258705139,2026-04-17 21:33:17.325414
+5,Não gostei da interface escura do terminal.,NEU,0.8846458196640015,2026-04-17 21:33:17.325414
+6,O resultado da IA foi surpreendente e muito preciso.,NEU,0.9738653302192688,2026-04-17 21:33:17.325414
